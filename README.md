@@ -4,9 +4,9 @@
 </head>
   
 <body>
-  <h1 align="center">
+  <h2 align="center">
     Hi There <img src="wave.gif" alt="Waving hand animated gif" height="45" width="45" /> I'm <a href="https://github.com/AWPyc/AWPyc">AWPyc</a>! <img src="melting_face.gif" width="64" height="64" alt="Waving Hand">
-</h1>
+</h2>
 </body>
 </html>
 
