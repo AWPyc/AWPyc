@@ -19,7 +19,6 @@ I'm an engineer, developer, and CS:GO enthusiast from Poland. I have a strong pa
 &nbsp;&nbsp;&nbsp;utilizing my skills to ensure software quality.\
 &nbsp;&nbsp;&nbsp;💓 &nbsp;Passionate with python coding and problem solving. \
 &nbsp;&nbsp;&nbsp;🎮 &nbsp;Love for games and tech gaming related. \
-&nbsp;&nbsp;&nbsp;✍️ &nbsp;Currently researching game development using Unreal Engine 5.1. \
 &nbsp;&nbsp;&nbsp;🛠️ &nbsp;Coding since 2015 with 3 years of experience in enterprise  firmware development. \
 <img align="right" src="python_logo.svg" width="350" height="200" alt="SVG Image">
 
